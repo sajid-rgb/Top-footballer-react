@@ -1,0 +1,12 @@
+.playerIncome{
+height: 200px;
+color: black;
+
+}
+.playerIncome img{
+    width: 300px;
+    transition:1s ease;
+}
+.playerIncome img:hover{
+   transform: scale(3);
+}

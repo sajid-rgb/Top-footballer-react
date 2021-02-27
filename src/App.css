@@ -1,0 +1,14 @@
+.App{
+   display: grid;
+   grid-template-columns:auto auto auto;
+   width: 100%;
+ 
+ 
+}
+.playerDiv{
+    display: flex;
+}
+.secondDiv{
+    width: 40%;
+    margin-left: 20px;
+}

@@ -1,0 +1,121 @@
+[{
+    "id": 1,
+    "first_name": "Lionel messi",
+    "club": "Barcelona",
+    "nation":"Argentina",
+    "position": "Center Forward",
+    "salary":"2000",
+    "image": "http://as01.epimg.net/en/imagenes/2019/10/18/football/1571414866_289332_1571419679_noticia_normal_recorte1.jpg"
+  }, {
+    "id": 2,
+    "first_name": "Cristiano Ronaldo",
+    "club": "Juventus",
+    "nation":"Portugal",
+    "position": "Center Forward",
+    "salary":"2500",
+    "image": "https://i.insider.com/5e14563c855cc23d4d6f14f3?width=1136&format=jpeg"
+  }, {
+    "id": 3,
+    "first_name": "Neymar Jr",
+    "club": "PSG",
+    "nation":"Brazil",
+    "position": "Left Wing Forward",
+    "salary":"1200",
+    "image": "https://www.fcbarcelonanoticias.com/uploads/s1/11/53/86/0/neymar-celebrates-goal.jpeg"
+  }, {
+    "id": 4,
+    "first_name": "Kylian Mbappe",
+    "club": "PSG",
+    "nation":"France",
+    "position": "Center Forward",
+    "salary":"1000",
+    "image": "https://cdn.soccerladuma.co.za/cms2/image_manager/uploads/News/695136/7/default.jpg"
+  }, {
+    "id": 5,
+    "first_name": "Mohammad Salah",
+    "club": "Liverpool",
+    "nation":"Egypt",
+    "position": "Center Forward",
+    "salary":"1500",
+    "image": "https://resources.premierleague.com/premierleague/photo/2020/06/09/91b209a3-1e87-47d2-beeb-0cdef23c93d1/2020-02-01T165121Z_1905305979_RC2SRE9R3CBK_RTRMADP_3_SOCCER-ENGLAND-LIV-SOU-REPORT.JPG"
+  },{
+    "id": 6,
+    "first_name": "kevin de bruyne",
+    "club": "Manchester City",
+    "nation":"Belgium",
+    "position": "Attacking Mid Fielder",
+    "salary":"800",
+    "image": "https://resources.premierleague.com/photos/2019/04/10/5a44e332-995d-48d1-962d-69a2f1c6b057/KDB.jpg?width=929&height=620"
+  },{
+    "id": 7,
+    "first_name": "Bruno Fernandes",
+    "club": "Man Utd",
+    "nation":"Portugal",
+    "position": "Attacking Mid Fielder",
+    "salary":"1400",
+    "image": "https://images.daznservices.com/di/library/GOAL/f6/8c/bruno-fernandes-manchester-united-2019-20_h30alk79c52l155kge00jlhoz.jpg?t=-1935764368&quality=100"
+  },{
+    "id": 8,
+    "first_name": "Rahim Sterling",
+    "club": "Manchester City",
+    "nation":"England",
+    "position": "Left Wing Forward",
+    "salary":"900",
+    "image": "https://www.expressandstar.com/resizer/h-t0YKAOy2VYDEvK1TGo1zZvUDA=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/mna/AP7RKN734BAQFAMWH3YLFKME4E.jpg"
+  },{
+    "id": 9,
+    "first_name": "Eden Hazard",
+    "club": "Real Madrid",
+    "nation":"Belgium",
+    "position": "Left Wing Forward",
+    "salary":"1700",
+    "image": "https://therealchamps.com/wp-content/uploads/getty-images/2017/07/1283752389.jpeg"
+  },{
+    "id": 10,
+    "first_name": "Virgil Van DiJk",
+    "club": "Liverpool",
+    "nation":"Netherlands",
+    "position": "Center Back",
+    "salary":"1300",
+    "image": "https://i.eurosport.com/2019/12/02/2729096-56403930-2560-1440.jpg"
+  },{
+    "id": 11,
+    "first_name": "Sergio Ramos",
+    "club": "Real Madrid",
+    "nation":"Spain",
+    "position": "Center Back",
+    "salary":"1000",
+    "image": "https://ichef.bbci.co.uk/onesport/cps/624/cpsprodpb/C2A4/production/_116582894_ramos_getty.jpg"
+  },{
+    "id": 12,
+    "first_name": "Zlatan Ibrahimovic",
+    "club": "AC Milan",
+    "nation":"Sweden",
+    "position": "Center Forward",
+    "salary":"700",
+    "image": "https://images.outlookindia.com/public/uploads/articles/2021/2/7/Zlatan-Celeb-Milan-AP_571_855.jpg"
+  },{
+    "id": 13,
+    "first_name": "N'golo Kante",
+    "club": "Chelsea",
+    "nation":"France",
+    "position": "Center Mid Fielder",
+    "salary":"900",
+    "image": "https://media.squawka.com/images/en/2019/04/15163459/ngolo-kante-chelsea-2019-1024x653.jpg"
+  },{
+    "id": 14,
+    "first_name": "Robert Lewandowski",
+    "club": "Bayern munich",
+    "nation":"Poland",
+    "position": "Center Forward",
+    "salary":"1500",
+    "image": "https://img.fifa.com/image/upload/t_l4/bfu602wawmxxhwh7zswy.jpg"
+  },{
+    "id": 15,
+    "first_name": "Allison Backer",
+    "club": "Liverpool",
+    "nation":"Brazil",
+    "position": "Goal Keeper",
+    "salary":"600",
+    "image": "https://cdn.publish0x.com/prod/fs/images/ad9ea4ba11f5a31cd6cf21066718c24412a35fdbe25618fc692814c3cbdf06bc.jpeg"
+  }]
