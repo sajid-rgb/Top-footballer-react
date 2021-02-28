@@ -1,4 +1,5 @@
 import React from 'react';
+import Playerdetail from '../Playerdetail/Playerdetail';
 import './PlayerCart.css'
 const Playercart = (props) => {
     const player = props.player;
@@ -7,11 +8,12 @@ const Playercart = (props) => {
     const total=player.reduce((total,value)=>total+parseInt(value.salary),0)
     return (
         <div className="playerIncome">
-            <p>You addded: {props.player.length} players in your favorite list</p>
-            <h4>Name:{user.first_name}</h4>
-            <p>Total Salary of  {user.first_name}: ${user.salary}</p>
-            <p>Total Salary of added player: ${total}</p>
-            <img src={user.image} alt=""/>
+           <p>You addded: {props.player.length} players in your favorite list</p>
+           <p>Total Salary of added player:{total}</p>
+           
+            {
+                player.map(item =><Playerdetail item={item}></Playerdetail>)
+            }
            
         </div>
     );
