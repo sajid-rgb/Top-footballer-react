@@ -9,13 +9,13 @@ function App() {
  const [player, setPlayer] = useState([])
  const [user,setUser] = useState([])
   const buttonClick=(pl)=>{
-    if(player.indexOf!=-1){
-      const newPlayer = [...player,pl]
+    const newPlayer = [...player,pl]
+    if(player.includes(pl)==false){
       setUser(pl)
-      setPlayer(newPlayer)
+      setPlayer(newPlayer);
     }
     else{
-      alert("Error")
+      alert("Allready added")
     }
    
   }
